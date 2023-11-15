@@ -1,0 +1,8 @@
+body{
+    font-family: "Open Sans Condensed";
+    box-sizing: "border-box";
+    padding:"0px";
+    margin:"0px";
+    overflow-x: hidden;
+    /* padding:20px 80px; */
+}

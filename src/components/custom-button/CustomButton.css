@@ -1,0 +1,38 @@
+.button-medium {
+  width: 155px;
+  height: 50px;
+  color: white;
+  background-color: black;
+  border-width: 0px;
+  text-align: center;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.button-medium:hover {
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+}
+
+.button-large {
+  width: 180px;
+  height: 50px;
+  color: white;
+  background-color: rgb(32, 32, 248);
+  border-width: 0px;
+  text-align: center;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.button-large:hover {
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+}
+
+.inverted {
+  color: black;
+  background-color: white;
+}
